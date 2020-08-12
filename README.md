@@ -1,3 +1,3 @@
 # ComputerVision
 
-This repo contains project for the final assessment related to ComputerVision course.
+This repo contains project  related to ComputerVision course.
